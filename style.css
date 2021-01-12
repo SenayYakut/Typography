@@ -153,7 +153,7 @@ a.home {
     font-style: italic;
 }
 
-div#creator {
+#creator {
     float: right;
     font-family: "Dancing script", cursive;
     margin-right: 20px;
