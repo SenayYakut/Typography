@@ -14,6 +14,7 @@ https://github.com/SenayYakut/Typography.git
 
 ## Usage
 Go to this  
+https://senayyakut.github.io/Typography/
 
 
 ## Contributing
