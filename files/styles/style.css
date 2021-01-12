@@ -12,12 +12,14 @@ body {
 h1 {
     color: white;
     font-size: 28px;
+    font-family: "Georgia";
 }
 
 h2 {
     font-size: 24px;
     font-weight: 700;
     line-height: 2.5;
+    font-family: "Georgia";
 }
 
 a {
@@ -26,6 +28,7 @@ a {
 
 p {
     margin: 16px 0;
+    font-family: "Helvetica";
 }
 
 strong {
@@ -53,6 +56,7 @@ strong {
     position: fixed;
     top: 0;
     width: 100%;
+    font-weight: 900;
 }
 
 .header li {
@@ -84,6 +88,7 @@ a.home {
     border-bottom: 1px solid #fff;
     padding: 10px;
     color: #ffffff;
+    font-weight: bold;
 }
 
 
@@ -108,6 +113,7 @@ a.home {
 .font-card .creator {
     font-size: 20px;
     line-height: 1.25;
+    font-style: italic;
 }
 
 .sample {
