@@ -8,7 +8,7 @@ Change the apperance of fonts using different CSS properties and CSS font librar
 
 Install the project locally
 ```bash
-
+https://github.com/SenayYakut/Typography.git
 
 ```
 
