@@ -199,6 +199,8 @@ a.home {
     margin-right: 20px;
     margin-bottom: 100px;
     color: #000;
+    word-spacing: 1.0em;
+
 }
 
 /* Media Queries */
