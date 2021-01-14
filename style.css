@@ -193,6 +193,13 @@ a.home {
     font-family: "Helvetica", sans-serif;
 }
 
+#creator {
+    float: right;
+    font-family: "Dancing script", cursive;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    color: #000;
+}
 
 /* Media Queries */
 
